@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# start the server port at localhost:3000
+# start the server port at http://localhost:3000
 node server/bin/www
 
 # serve with hot reload at localhost:8080
